@@ -5,7 +5,7 @@ const CakeGrid = () => {
     return (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {cakes.map((cake) => (
-                <div key={cake.id} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+                <div key={cake.id} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300" data-aos="zoom-in" data-aos-delay={cake.id * 50}>
                     <div className="relative h-64">
                         <img
                             src={cake.image}

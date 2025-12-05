@@ -11,34 +11,34 @@
         "name": "Decadent Chocolate",
         "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "price": "$65",
-        "description": "Rich chocolate layers with ganache filling."
+        "description": "Rich chocolate layers with ganache filling inside it."
     },
     {
         "id": 3,
         "name": "Panda Swirl Delight",
         "image": "public/images/cake1.jpg",
-        "price": "$55",
-        "description": "Cute panda-themed cake with blue and white swirls, perfect for fun birthdays and kids’ celebrations."
+        "price": "599",
+        "description": "Cute panda-themed cake with blue and white swirls."
     },
     {
         "id": 4,
         "name": "Rosy Anniversary Bloom",
         "image": "public/images/cake2.jpg",
-        "price": "$60",
-        "description": "Elegant rose-decorated anniversary cake with soft colors, crafted to make your special day memorable."
+        "price": "999",
+        "description": "Elegant rose-decorated anniversary cake to make your special day memorable."
     },
     {
         "id": 5,
         "name": "Choco Drip Swirl Cake",
         "image": "public/images/cake3.jpg",
-        "price": "$52",
-        "description": "ich chocolate drip cake topped with elegant lavender swirls, perfect for birthdays, parties, and sweet celebrations."
+        "price": "499",
+        "description": "Rich chocolate drip cake, perfect for birthdays, parties, and sweet celebrations."
     },
     {
         "id": 6,
         "name": "Caramel Crunch",
         "image": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "price": "$58",
-        "description": "Caramel sponge with salted caramel drizzle."
+        "description": "Caramel sponge with salted caramel drizzle and strawberry topping."
     }
 ]
